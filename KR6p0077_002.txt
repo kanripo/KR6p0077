@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:02:54.317594
+#+DATE: 2015-08-30 21:02:55.940195
 #+TITLE: 集諸經禮懺儀
 #+PROPERTY: CBETA_ID T47n1982
 #+PROPERTY: ID KR6p0077
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 47, No. 1982
 #+PROPERTY: VOL 47
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6p0077_T_002-0466a> 
 #+PROPERTY: JUAN 2
 ¶
-
- 下集諸經禮懺儀卷下¶
+集諸經禮懺儀卷下¶
 ¶
-大唐西崇福寺沙門智昇撰¶
+大唐西崇福寺沙門智昇撰沙門智昇撰¶
 比丘善導集記¶
 
 往生禮讚偈一卷勸一切眾生願生西方極樂¶
@@ -731,7 +730,7 @@
 至心歸命禮西方阿彌陀佛。¶
 
 #+BEGIN_VERSE
-「　金底寶㵎池生華
+「　金底寶[澗-日+月]池生華
 　善根所成妙臺座¶
 　於彼座上如山王
 　故我頂禮彌陀佛
