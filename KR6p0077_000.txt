@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 集諸經禮懺儀
+#+DATE: 2015-08-30 21:02:54.562013
+#+PROPERTY: JUAN 0
